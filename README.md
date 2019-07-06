@@ -1,2 +1,0 @@
-# ReduxPractice
-Created with CodeSandbox
